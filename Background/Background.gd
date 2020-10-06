@@ -31,3 +31,4 @@ func _on_Timer_timeout():
 		c += 1
 		c %= colors.size()
 		update_color()
+
